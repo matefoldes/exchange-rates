@@ -1,0 +1,8 @@
+package com.matefoldes.exchangerates.api.domain
+
+data class LatestRatesResponse(
+    val date: String,
+    val timestamp: String,
+    val base: String,
+    val rates: Map<String, String>
+)

@@ -1,0 +1,10 @@
+server:
+  port: 8888
+exchangeratesapi:
+  source: API
+  api.key: 0a29f71a5c4bd15ded51082eb886e5c6
+  url: http://api.exchangeratesapi.io/v1
+rates:
+  path:
+    latest: src/main/resources/rates/latestRates.json
+    historical: src/main/resources/rates/historicalRates.json

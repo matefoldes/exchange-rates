@@ -1,0 +1,14 @@
+[
+  {
+    "success": true,
+    "historical": true,
+    "date": "2020-01-01",
+    "timestamp": "1577923199",
+    "base": "EUR",
+    "rates": {
+      "EUR": "1",
+      "USD": "1.2",
+      "GBP": "1.3"
+    }
+  }
+]
