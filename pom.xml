@@ -11,13 +11,13 @@
     <description>Self-hosted exchange rates provider API</description>
 
     <properties>
-        <jacoco.version>0.8.8</jacoco.version>
-        <jackson-module.version>2.13.4</jackson-module.version>
+        <jacoco.version>0.8.11</jacoco.version>
+        <jackson-module.version>2.15.3</jackson-module.version>
         <java.version>11</java.version>
-        <kotlin.version>1.7.20</kotlin.version>
-        <mockk.version>1.13.2</mockk.version>
-        <serialization.version>1.4.1</serialization.version>
-        <spring-boot.version>2.7.5</spring-boot.version>
+        <kotlin.version>1.9.20</kotlin.version>
+        <mockk.version>1.13.8</mockk.version>
+        <serialization.version>1.6.0</serialization.version>
+        <spring-boot.version>2.7.17</spring-boot.version>
     </properties>
 
     <dependencyManagement>
